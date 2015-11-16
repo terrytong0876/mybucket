@@ -7,5 +7,5 @@ body, table, form, input, td, th, p, textarea, select {
 }
 
 #main-table {
-  background-image: url("background-01.jpg") !important;
+  background-image: url(background-01.jpg) !important;
 }
